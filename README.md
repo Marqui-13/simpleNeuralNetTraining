@@ -1,1 +1,1 @@
-# simpleNeuralNetTraining
+This code trains a single-layer neural network with a sigmoid activation function using the mean squared error loss function and gradient descent optimization. It trains the network for 100 epochs, printing the loss after each epoch. Finally, it uses the trained model to make a prediction on a new data point.
